@@ -5,15 +5,15 @@ Silahkan Pilih Untuk Menampilkan Menu Bot
 
     『 BOT INFO 』
 
-*࿊⃟〽️* Device : Poco X3 
+*࿊⃟〽️* Device : Redmi 
 *࿊⃟〽️* Wa Version : 2.21.11.17
-*࿊⃟〽️* OS Version : 11
-*࿊⃟〽️* MNC : 001
-*࿊⃟〽️* MCC : 510
+*࿊⃟〽️* OS Version : 9
+*࿊⃟〽️* MNC : 0
+*࿊⃟〽️* MCC : 0
 *࿊⃟〽️* Platfrom : ${os.platform()}
 *࿊⃟〽️* Mode : ${publik ? 'Public' : 'Self'}
 *࿊⃟〽️* Prefix : ${multi ? 'Multi Prefix' : 'No Prefix'}
-*࿊⃟〽️* Name Creator : Helga Zex
+*࿊⃟〽️* Name Creator : Valzz NoC-
 
 
        『 USER INFO 』
